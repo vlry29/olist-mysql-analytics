@@ -57,8 +57,6 @@ python3 scripts/validate_mysql.py --user root
 
 customers.customer_id → orders.customer_id (одна клиентская запись на заказ в этой выборке); orders.order_id → order_items.order_id (один ко многим); products.product_id → order_items.product_id (один ко многим). category_translation соединяется по product_category_name через LEFT JOIN. Для анализа людей используется customers.customer_unique_id.
 
-## Публикация
 
-Предлагаемое имя репозитория: olist-mysql-analytics. Загружать содержимое этой папки с README.md в корне. data/, generated/, пароли и локальную базу не загружать. Архив предназначен для распаковки, а не хранения единственным ZIP-файлом в репозитории.
 
-Перед добавлением ссылки в резюме выполнить проверку MySQL и разобрать задания 8–19. Проект доработан с помощью ИИ; исходные задания 1–7 проверены отдельно в docs/review.md.
+
