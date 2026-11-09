@@ -1,0 +1,140 @@
+[
+  {
+    "purchase_month": "2016-09",
+    "delivered_orders": 1,
+    "goods_value": 134.97,
+    "freight_value": 8.49
+  },
+  {
+    "purchase_month": "2016-10",
+    "delivered_orders": 265,
+    "goods_value": 40325.11,
+    "freight_value": 6165.55
+  },
+  {
+    "purchase_month": "2016-12",
+    "delivered_orders": 1,
+    "goods_value": 10.9,
+    "freight_value": 8.72
+  },
+  {
+    "purchase_month": "2017-01",
+    "delivered_orders": 750,
+    "goods_value": 111798.36,
+    "freight_value": 15684.01
+  },
+  {
+    "purchase_month": "2017-02",
+    "delivered_orders": 1653,
+    "goods_value": 234223.4,
+    "freight_value": 37015.92
+  },
+  {
+    "purchase_month": "2017-03",
+    "delivered_orders": 2546,
+    "goods_value": 359198.85,
+    "freight_value": 55132.1
+  },
+  {
+    "purchase_month": "2017-04",
+    "delivered_orders": 2303,
+    "goods_value": 340669.68,
+    "freight_value": 50142.72
+  },
+  {
+    "purchase_month": "2017-05",
+    "delivered_orders": 3546,
+    "goods_value": 489338.25,
+    "freight_value": 77513.15
+  },
+  {
+    "purchase_month": "2017-06",
+    "delivered_orders": 3135,
+    "goods_value": 421923.37,
+    "freight_value": 68127.0
+  },
+  {
+    "purchase_month": "2017-07",
+    "delivered_orders": 3872,
+    "goods_value": 481604.52,
+    "freight_value": 84694.56
+  },
+  {
+    "purchase_month": "2017-08",
+    "delivered_orders": 4193,
+    "goods_value": 554699.7,
+    "freight_value": 91132.66
+  },
+  {
+    "purchase_month": "2017-09",
+    "delivered_orders": 4150,
+    "goods_value": 607399.67,
+    "freight_value": 93677.82
+  },
+  {
+    "purchase_month": "2017-10",
+    "delivered_orders": 4478,
+    "goods_value": 648247.65,
+    "freight_value": 102869.36
+  },
+  {
+    "purchase_month": "2017-11",
+    "delivered_orders": 7289,
+    "goods_value": 987765.37,
+    "freight_value": 165598.83
+  },
+  {
+    "purchase_month": "2017-12",
+    "delivered_orders": 5513,
+    "goods_value": 726033.19,
+    "freight_value": 117045.1
+  },
+  {
+    "purchase_month": "2018-01",
+    "delivered_orders": 7069,
+    "goods_value": 924645.0,
+    "freight_value": 153242.46
+  },
+  {
+    "purchase_month": "2018-02",
+    "delivered_orders": 6555,
+    "goods_value": 826437.13,
+    "freight_value": 139731.28
+  },
+  {
+    "purchase_month": "2018-03",
+    "delivered_orders": 7003,
+    "goods_value": 953356.25,
+    "freight_value": 167241.99
+  },
+  {
+    "purchase_month": "2018-04",
+    "delivered_orders": 6798,
+    "goods_value": 973534.09,
+    "freight_value": 159344.84
+  },
+  {
+    "purchase_month": "2018-05",
+    "delivered_orders": 6749,
+    "goods_value": 977544.69,
+    "freight_value": 151229.83
+  },
+  {
+    "purchase_month": "2018-06",
+    "delivered_orders": 6099,
+    "goods_value": 856077.86,
+    "freight_value": 155900.43
+  },
+  {
+    "purchase_month": "2018-07",
+    "delivered_orders": 6159,
+    "goods_value": 867953.46,
+    "freight_value": 159853.82
+  },
+  {
+    "purchase_month": "2018-08",
+    "delivered_orders": 6351,
+    "goods_value": 838576.64,
+    "freight_value": 146915.0
+  }
+]

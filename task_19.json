@@ -1,0 +1,152 @@
+[
+  {
+    "purchase_month": "2016-09",
+    "all_orders": 4,
+    "canceled_orders": 2,
+    "canceled_pct": 50.0
+  },
+  {
+    "purchase_month": "2016-10",
+    "all_orders": 324,
+    "canceled_orders": 24,
+    "canceled_pct": 7.41
+  },
+  {
+    "purchase_month": "2016-12",
+    "all_orders": 1,
+    "canceled_orders": 0,
+    "canceled_pct": 0.0
+  },
+  {
+    "purchase_month": "2017-01",
+    "all_orders": 800,
+    "canceled_orders": 3,
+    "canceled_pct": 0.38
+  },
+  {
+    "purchase_month": "2017-02",
+    "all_orders": 1780,
+    "canceled_orders": 17,
+    "canceled_pct": 0.96
+  },
+  {
+    "purchase_month": "2017-03",
+    "all_orders": 2682,
+    "canceled_orders": 33,
+    "canceled_pct": 1.23
+  },
+  {
+    "purchase_month": "2017-04",
+    "all_orders": 2404,
+    "canceled_orders": 18,
+    "canceled_pct": 0.75
+  },
+  {
+    "purchase_month": "2017-05",
+    "all_orders": 3700,
+    "canceled_orders": 29,
+    "canceled_pct": 0.78
+  },
+  {
+    "purchase_month": "2017-06",
+    "all_orders": 3245,
+    "canceled_orders": 16,
+    "canceled_pct": 0.49
+  },
+  {
+    "purchase_month": "2017-07",
+    "all_orders": 4026,
+    "canceled_orders": 28,
+    "canceled_pct": 0.7
+  },
+  {
+    "purchase_month": "2017-08",
+    "all_orders": 4331,
+    "canceled_orders": 27,
+    "canceled_pct": 0.62
+  },
+  {
+    "purchase_month": "2017-09",
+    "all_orders": 4285,
+    "canceled_orders": 20,
+    "canceled_pct": 0.47
+  },
+  {
+    "purchase_month": "2017-10",
+    "all_orders": 4631,
+    "canceled_orders": 26,
+    "canceled_pct": 0.56
+  },
+  {
+    "purchase_month": "2017-11",
+    "all_orders": 7544,
+    "canceled_orders": 37,
+    "canceled_pct": 0.49
+  },
+  {
+    "purchase_month": "2017-12",
+    "all_orders": 5673,
+    "canceled_orders": 11,
+    "canceled_pct": 0.19
+  },
+  {
+    "purchase_month": "2018-01",
+    "all_orders": 7269,
+    "canceled_orders": 34,
+    "canceled_pct": 0.47
+  },
+  {
+    "purchase_month": "2018-02",
+    "all_orders": 6728,
+    "canceled_orders": 73,
+    "canceled_pct": 1.09
+  },
+  {
+    "purchase_month": "2018-03",
+    "all_orders": 7211,
+    "canceled_orders": 26,
+    "canceled_pct": 0.36
+  },
+  {
+    "purchase_month": "2018-04",
+    "all_orders": 6939,
+    "canceled_orders": 15,
+    "canceled_pct": 0.22
+  },
+  {
+    "purchase_month": "2018-05",
+    "all_orders": 6873,
+    "canceled_orders": 24,
+    "canceled_pct": 0.35
+  },
+  {
+    "purchase_month": "2018-06",
+    "all_orders": 6167,
+    "canceled_orders": 18,
+    "canceled_pct": 0.29
+  },
+  {
+    "purchase_month": "2018-07",
+    "all_orders": 6292,
+    "canceled_orders": 41,
+    "canceled_pct": 0.65
+  },
+  {
+    "purchase_month": "2018-08",
+    "all_orders": 6512,
+    "canceled_orders": 84,
+    "canceled_pct": 1.29
+  },
+  {
+    "purchase_month": "2018-09",
+    "all_orders": 16,
+    "canceled_orders": 15,
+    "canceled_pct": 93.75
+  },
+  {
+    "purchase_month": "2018-10",
+    "all_orders": 4,
+    "canceled_orders": 4,
+    "canceled_pct": 100.0
+  }
+]

@@ -1,0 +1,94 @@
+[
+  {
+    "purchase_month": "2016-09",
+    "delivered_orders": 1
+  },
+  {
+    "purchase_month": "2016-10",
+    "delivered_orders": 265
+  },
+  {
+    "purchase_month": "2016-12",
+    "delivered_orders": 1
+  },
+  {
+    "purchase_month": "2017-01",
+    "delivered_orders": 750
+  },
+  {
+    "purchase_month": "2017-02",
+    "delivered_orders": 1653
+  },
+  {
+    "purchase_month": "2017-03",
+    "delivered_orders": 2546
+  },
+  {
+    "purchase_month": "2017-04",
+    "delivered_orders": 2303
+  },
+  {
+    "purchase_month": "2017-05",
+    "delivered_orders": 3546
+  },
+  {
+    "purchase_month": "2017-06",
+    "delivered_orders": 3135
+  },
+  {
+    "purchase_month": "2017-07",
+    "delivered_orders": 3872
+  },
+  {
+    "purchase_month": "2017-08",
+    "delivered_orders": 4193
+  },
+  {
+    "purchase_month": "2017-09",
+    "delivered_orders": 4150
+  },
+  {
+    "purchase_month": "2017-10",
+    "delivered_orders": 4478
+  },
+  {
+    "purchase_month": "2017-11",
+    "delivered_orders": 7289
+  },
+  {
+    "purchase_month": "2017-12",
+    "delivered_orders": 5513
+  },
+  {
+    "purchase_month": "2018-01",
+    "delivered_orders": 7069
+  },
+  {
+    "purchase_month": "2018-02",
+    "delivered_orders": 6555
+  },
+  {
+    "purchase_month": "2018-03",
+    "delivered_orders": 7003
+  },
+  {
+    "purchase_month": "2018-04",
+    "delivered_orders": 6798
+  },
+  {
+    "purchase_month": "2018-05",
+    "delivered_orders": 6749
+  },
+  {
+    "purchase_month": "2018-06",
+    "delivered_orders": 6099
+  },
+  {
+    "purchase_month": "2018-07",
+    "delivered_orders": 6159
+  },
+  {
+    "purchase_month": "2018-08",
+    "delivered_orders": 6351
+  }
+]

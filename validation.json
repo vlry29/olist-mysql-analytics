@@ -1,0 +1,441 @@
+{
+  "method": "MySQL SQL parsed with sqlglot; translated to SQLite and run on the same source data. Not a MySQL server execution test.",
+  "queries": [
+    {
+      "task": 1,
+      "rows": 1,
+      "columns": [
+        "orders_count"
+      ],
+      "preview": [
+        [
+          99441
+        ]
+      ]
+    },
+    {
+      "task": 2,
+      "rows": 8,
+      "columns": [
+        "order_status"
+      ],
+      "preview": [
+        [
+          "approved"
+        ],
+        [
+          "canceled"
+        ],
+        [
+          "created"
+        ]
+      ]
+    },
+    {
+      "task": 3,
+      "rows": 8,
+      "columns": [
+        "order_status",
+        "orders_count"
+      ],
+      "preview": [
+        [
+          "delivered",
+          96478
+        ],
+        [
+          "shipped",
+          1107
+        ],
+        [
+          "canceled",
+          625
+        ]
+      ]
+    },
+    {
+      "task": 4,
+      "rows": 20,
+      "columns": [
+        "order_id",
+        "order_status",
+        "order_purchase_timestamp"
+      ],
+      "preview": [
+        [
+          "35a972d7f8436f405b56e36add1a7140",
+          "delivered",
+          "2018-08-29 15:00:37"
+        ],
+        [
+          "03ef5dedbe7492bdae72eec50764c43f",
+          "delivered",
+          "2018-08-29 14:52:00"
+        ],
+        [
+          "168626408cb32af0ffaf76711caae1dc",
+          "delivered",
+          "2018-08-29 14:18:28"
+        ]
+      ]
+    },
+    {
+      "task": 5,
+      "rows": 1,
+      "columns": [
+        "first_purchase",
+        "last_purchase"
+      ],
+      "preview": [
+        [
+          "2016-09-04 21:15:19",
+          "2018-10-17 17:30:18"
+        ]
+      ]
+    },
+    {
+      "task": 6,
+      "rows": 1,
+      "columns": [
+        "customer_rows",
+        "customer_ids",
+        "unique_buyers"
+      ],
+      "preview": [
+        [
+          99441,
+          99441,
+          96096
+        ]
+      ]
+    },
+    {
+      "task": 7,
+      "rows": 1,
+      "columns": [
+        "products_without_category"
+      ],
+      "preview": [
+        [
+          610
+        ]
+      ]
+    },
+    {
+      "task": 8,
+      "rows": 23,
+      "columns": [
+        "purchase_month",
+        "delivered_orders"
+      ],
+      "preview": [
+        [
+          "2016-09",
+          1
+        ],
+        [
+          "2016-10",
+          265
+        ],
+        [
+          "2016-12",
+          1
+        ]
+      ]
+    },
+    {
+      "task": 9,
+      "rows": 98666,
+      "columns": [
+        "order_id",
+        "item_count",
+        "goods_value",
+        "freight_value"
+      ],
+      "preview": [
+        [
+          "00010242fe8c5a6d1ba2dd792cb16214",
+          1,
+          58.9,
+          13.29
+        ],
+        [
+          "00018f77f2f0320c557190d7a144bdd3",
+          1,
+          239.9,
+          19.93
+        ],
+        [
+          "000229ec398224ef6ca0657da4fc703e",
+          1,
+          199.0,
+          17.87
+        ]
+      ]
+    },
+    {
+      "task": 10,
+      "rows": 23,
+      "columns": [
+        "purchase_month",
+        "delivered_orders",
+        "goods_value",
+        "freight_value"
+      ],
+      "preview": [
+        [
+          "2016-09",
+          1,
+          134.97,
+          8.49
+        ],
+        [
+          "2016-10",
+          265,
+          40325.11,
+          6165.55
+        ],
+        [
+          "2016-12",
+          1,
+          10.9,
+          8.72
+        ]
+      ]
+    },
+    {
+      "task": 11,
+      "rows": 1,
+      "columns": [
+        "delivered_orders",
+        "goods_value",
+        "avg_order_value"
+      ],
+      "preview": [
+        [
+          96478,
+          13221498.11,
+          137.04
+        ]
+      ]
+    },
+    {
+      "task": 12,
+      "rows": 10,
+      "columns": [
+        "category_original",
+        "category_name",
+        "goods_value",
+        "delivered_orders"
+      ],
+      "preview": [
+        [
+          "beleza_saude",
+          "health_beauty",
+          1233131.72,
+          8647
+        ],
+        [
+          "relogios_presentes",
+          "watches_gifts",
+          1166176.98,
+          5495
+        ],
+        [
+          "cama_mesa_banho",
+          "bed_bath_table",
+          1023434.76,
+          9272
+        ]
+      ]
+    },
+    {
+      "task": 13,
+      "rows": 27,
+      "columns": [
+        "customer_state",
+        "buyers"
+      ],
+      "preview": [
+        [
+          "SP",
+          39156
+        ],
+        [
+          "RJ",
+          11917
+        ],
+        [
+          "MG",
+          11001
+        ]
+      ]
+    },
+    {
+      "task": 14,
+      "rows": 2801,
+      "columns": [
+        "customer_unique_id",
+        "delivered_orders"
+      ],
+      "preview": [
+        [
+          "8d50f5eadf50201ccdcedfb9e2ac8455",
+          15
+        ],
+        [
+          "3e43e6105506432c953e165fb2acf44c",
+          9
+        ],
+        [
+          "1b6c7548a2a1f9037c1fd3ddfed95f33",
+          7
+        ]
+      ]
+    },
+    {
+      "task": 15,
+      "rows": 1,
+      "columns": [
+        "delivered_buyers",
+        "repeat_buyers",
+        "repeat_buyer_pct"
+      ],
+      "preview": [
+        [
+          93358,
+          2801,
+          3.0
+        ]
+      ]
+    },
+    {
+      "task": 16,
+      "rows": 96159,
+      "columns": [
+        "customer_unique_id",
+        "order_id",
+        "order_purchase_timestamp",
+        "order_number"
+      ],
+      "preview": [
+        [
+          "0000366f3b9a7992bf8c76cfdf3221e2",
+          "e22acc9c116caa3f2b7121bbb380d08e",
+          "2018-05-10 10:56:27",
+          1
+        ],
+        [
+          "0000b849f77a49e4a4ce2b2a4ca5be3f",
+          "3594e05a005ac4d06a72673270ef9ec9",
+          "2018-05-07 11:11:27",
+          1
+        ],
+        [
+          "0000f46a3911fa3c0805444483337064",
+          "b33ec3b699337181488304f362a6b734",
+          "2017-03-10 21:05:03",
+          1
+        ]
+      ]
+    },
+    {
+      "task": 17,
+      "rows": 2801,
+      "columns": [
+        "customer_unique_id",
+        "first_purchase",
+        "second_purchase",
+        "days_to_second"
+      ],
+      "preview": [
+        [
+          "00cc12a6d8b578b8ebd21ea4e2ae8b27",
+          "2017-03-21 19:25:22",
+          "2017-03-21 19:25:23",
+          0.0
+        ],
+        [
+          "027803eb28cc01fbdf5da72b109fabee",
+          "2017-10-17 11:28:05",
+          "2017-10-17 11:28:18",
+          0.0
+        ],
+        [
+          "02b20b7c813efede140142ac610e36dc",
+          "2018-03-19 20:50:39",
+          "2018-03-19 20:50:39",
+          0.0
+        ]
+      ]
+    },
+    {
+      "task": 18,
+      "rows": 255,
+      "columns": [
+        "cohort_month",
+        "activity_month",
+        "month_number",
+        "cohort_size",
+        "active_buyers",
+        "repurchase_pct"
+      ],
+      "preview": [
+        [
+          "2016-09-01",
+          "2016-09-01",
+          0,
+          1,
+          1,
+          100.0
+        ],
+        [
+          "2016-09-01",
+          "2016-10-01",
+          1,
+          1,
+          0,
+          0.0
+        ],
+        [
+          "2016-09-01",
+          "2016-11-01",
+          2,
+          1,
+          0,
+          0.0
+        ]
+      ]
+    },
+    {
+      "task": 19,
+      "rows": 25,
+      "columns": [
+        "purchase_month",
+        "all_orders",
+        "canceled_orders",
+        "canceled_pct"
+      ],
+      "preview": [
+        [
+          "2016-09",
+          4,
+          2,
+          50.0
+        ],
+        [
+          "2016-10",
+          324,
+          24,
+          7.41
+        ],
+        [
+          "2016-12",
+          1,
+          0,
+          0.0
+        ]
+      ]
+    }
+  ]
+}

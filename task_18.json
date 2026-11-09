@@ -1,0 +1,2042 @@
+[
+  {
+    "cohort_month": "2016-09-01",
+    "activity_month": "2016-09-01",
+    "month_number": 0,
+    "cohort_size": 1,
+    "active_buyers": 1,
+    "repurchase_pct": 100.0
+  },
+  {
+    "cohort_month": "2016-09-01",
+    "activity_month": "2016-10-01",
+    "month_number": 1,
+    "cohort_size": 1,
+    "active_buyers": 0,
+    "repurchase_pct": 0.0
+  },
+  {
+    "cohort_month": "2016-09-01",
+    "activity_month": "2016-11-01",
+    "month_number": 2,
+    "cohort_size": 1,
+    "active_buyers": 0,
+    "repurchase_pct": 0.0
+  },
+  {
+    "cohort_month": "2016-09-01",
+    "activity_month": "2016-12-01",
+    "month_number": 3,
+    "cohort_size": 1,
+    "active_buyers": 0,
+    "repurchase_pct": 0.0
+  },
+  {
+    "cohort_month": "2016-09-01",
+    "activity_month": "2017-01-01",
+    "month_number": 4,
+    "cohort_size": 1,
+    "active_buyers": 0,
+    "repurchase_pct": 0.0
+  },
+  {
+    "cohort_month": "2016-09-01",
+    "activity_month": "2017-02-01",
+    "month_number": 5,
+    "cohort_size": 1,
+    "active_buyers": 0,
+    "repurchase_pct": 0.0
+  },
+  {
+    "cohort_month": "2016-09-01",
+    "activity_month": "2017-03-01",
+    "month_number": 6,
+    "cohort_size": 1,
+    "active_buyers": 0,
+    "repurchase_pct": 0.0
+  },
+  {
+    "cohort_month": "2016-09-01",
+    "activity_month": "2017-04-01",
+    "month_number": 7,
+    "cohort_size": 1,
+    "active_buyers": 0,
+    "repurchase_pct": 0.0
+  },
+  {
+    "cohort_month": "2016-09-01",
+    "activity_month": "2017-05-01",
+    "month_number": 8,
+    "cohort_size": 1,
+    "active_buyers": 0,
+    "repurchase_pct": 0.0
+  },
+  {
+    "cohort_month": "2016-09-01",
+    "activity_month": "2017-06-01",
+    "month_number": 9,
+    "cohort_size": 1,
+    "active_buyers": 0,
+    "repurchase_pct": 0.0
+  },
+  {
+    "cohort_month": "2016-09-01",
+    "activity_month": "2017-07-01",
+    "month_number": 10,
+    "cohort_size": 1,
+    "active_buyers": 0,
+    "repurchase_pct": 0.0
+  },
+  {
+    "cohort_month": "2016-09-01",
+    "activity_month": "2017-08-01",
+    "month_number": 11,
+    "cohort_size": 1,
+    "active_buyers": 0,
+    "repurchase_pct": 0.0
+  },
+  {
+    "cohort_month": "2016-09-01",
+    "activity_month": "2017-09-01",
+    "month_number": 12,
+    "cohort_size": 1,
+    "active_buyers": 0,
+    "repurchase_pct": 0.0
+  },
+  {
+    "cohort_month": "2016-09-01",
+    "activity_month": "2017-10-01",
+    "month_number": 13,
+    "cohort_size": 1,
+    "active_buyers": 0,
+    "repurchase_pct": 0.0
+  },
+  {
+    "cohort_month": "2016-09-01",
+    "activity_month": "2017-11-01",
+    "month_number": 14,
+    "cohort_size": 1,
+    "active_buyers": 0,
+    "repurchase_pct": 0.0
+  },
+  {
+    "cohort_month": "2016-09-01",
+    "activity_month": "2017-12-01",
+    "month_number": 15,
+    "cohort_size": 1,
+    "active_buyers": 0,
+    "repurchase_pct": 0.0
+  },
+  {
+    "cohort_month": "2016-09-01",
+    "activity_month": "2018-01-01",
+    "month_number": 16,
+    "cohort_size": 1,
+    "active_buyers": 0,
+    "repurchase_pct": 0.0
+  },
+  {
+    "cohort_month": "2016-09-01",
+    "activity_month": "2018-02-01",
+    "month_number": 17,
+    "cohort_size": 1,
+    "active_buyers": 0,
+    "repurchase_pct": 0.0
+  },
+  {
+    "cohort_month": "2016-09-01",
+    "activity_month": "2018-03-01",
+    "month_number": 18,
+    "cohort_size": 1,
+    "active_buyers": 0,
+    "repurchase_pct": 0.0
+  },
+  {
+    "cohort_month": "2016-09-01",
+    "activity_month": "2018-04-01",
+    "month_number": 19,
+    "cohort_size": 1,
+    "active_buyers": 0,
+    "repurchase_pct": 0.0
+  },
+  {
+    "cohort_month": "2016-09-01",
+    "activity_month": "2018-05-01",
+    "month_number": 20,
+    "cohort_size": 1,
+    "active_buyers": 0,
+    "repurchase_pct": 0.0
+  },
+  {
+    "cohort_month": "2016-09-01",
+    "activity_month": "2018-06-01",
+    "month_number": 21,
+    "cohort_size": 1,
+    "active_buyers": 0,
+    "repurchase_pct": 0.0
+  },
+  {
+    "cohort_month": "2016-09-01",
+    "activity_month": "2018-07-01",
+    "month_number": 22,
+    "cohort_size": 1,
+    "active_buyers": 0,
+    "repurchase_pct": 0.0
+  },
+  {
+    "cohort_month": "2016-10-01",
+    "activity_month": "2016-10-01",
+    "month_number": 0,
+    "cohort_size": 262,
+    "active_buyers": 262,
+    "repurchase_pct": 100.0
+  },
+  {
+    "cohort_month": "2016-10-01",
+    "activity_month": "2016-11-01",
+    "month_number": 1,
+    "cohort_size": 262,
+    "active_buyers": 0,
+    "repurchase_pct": 0.0
+  },
+  {
+    "cohort_month": "2016-10-01",
+    "activity_month": "2016-12-01",
+    "month_number": 2,
+    "cohort_size": 262,
+    "active_buyers": 0,
+    "repurchase_pct": 0.0
+  },
+  {
+    "cohort_month": "2016-10-01",
+    "activity_month": "2017-01-01",
+    "month_number": 3,
+    "cohort_size": 262,
+    "active_buyers": 0,
+    "repurchase_pct": 0.0
+  },
+  {
+    "cohort_month": "2016-10-01",
+    "activity_month": "2017-02-01",
+    "month_number": 4,
+    "cohort_size": 262,
+    "active_buyers": 0,
+    "repurchase_pct": 0.0
+  },
+  {
+    "cohort_month": "2016-10-01",
+    "activity_month": "2017-03-01",
+    "month_number": 5,
+    "cohort_size": 262,
+    "active_buyers": 0,
+    "repurchase_pct": 0.0
+  },
+  {
+    "cohort_month": "2016-10-01",
+    "activity_month": "2017-04-01",
+    "month_number": 6,
+    "cohort_size": 262,
+    "active_buyers": 1,
+    "repurchase_pct": 0.38
+  },
+  {
+    "cohort_month": "2016-10-01",
+    "activity_month": "2017-05-01",
+    "month_number": 7,
+    "cohort_size": 262,
+    "active_buyers": 0,
+    "repurchase_pct": 0.0
+  },
+  {
+    "cohort_month": "2016-10-01",
+    "activity_month": "2017-06-01",
+    "month_number": 8,
+    "cohort_size": 262,
+    "active_buyers": 0,
+    "repurchase_pct": 0.0
+  },
+  {
+    "cohort_month": "2016-10-01",
+    "activity_month": "2017-07-01",
+    "month_number": 9,
+    "cohort_size": 262,
+    "active_buyers": 1,
+    "repurchase_pct": 0.38
+  },
+  {
+    "cohort_month": "2016-10-01",
+    "activity_month": "2017-08-01",
+    "month_number": 10,
+    "cohort_size": 262,
+    "active_buyers": 0,
+    "repurchase_pct": 0.0
+  },
+  {
+    "cohort_month": "2016-10-01",
+    "activity_month": "2017-09-01",
+    "month_number": 11,
+    "cohort_size": 262,
+    "active_buyers": 1,
+    "repurchase_pct": 0.38
+  },
+  {
+    "cohort_month": "2016-10-01",
+    "activity_month": "2017-10-01",
+    "month_number": 12,
+    "cohort_size": 262,
+    "active_buyers": 0,
+    "repurchase_pct": 0.0
+  },
+  {
+    "cohort_month": "2016-10-01",
+    "activity_month": "2017-11-01",
+    "month_number": 13,
+    "cohort_size": 262,
+    "active_buyers": 1,
+    "repurchase_pct": 0.38
+  },
+  {
+    "cohort_month": "2016-10-01",
+    "activity_month": "2017-12-01",
+    "month_number": 14,
+    "cohort_size": 262,
+    "active_buyers": 0,
+    "repurchase_pct": 0.0
+  },
+  {
+    "cohort_month": "2016-10-01",
+    "activity_month": "2018-01-01",
+    "month_number": 15,
+    "cohort_size": 262,
+    "active_buyers": 1,
+    "repurchase_pct": 0.38
+  },
+  {
+    "cohort_month": "2016-10-01",
+    "activity_month": "2018-02-01",
+    "month_number": 16,
+    "cohort_size": 262,
+    "active_buyers": 0,
+    "repurchase_pct": 0.0
+  },
+  {
+    "cohort_month": "2016-10-01",
+    "activity_month": "2018-03-01",
+    "month_number": 17,
+    "cohort_size": 262,
+    "active_buyers": 1,
+    "repurchase_pct": 0.38
+  },
+  {
+    "cohort_month": "2016-10-01",
+    "activity_month": "2018-04-01",
+    "month_number": 18,
+    "cohort_size": 262,
+    "active_buyers": 0,
+    "repurchase_pct": 0.0
+  },
+  {
+    "cohort_month": "2016-10-01",
+    "activity_month": "2018-05-01",
+    "month_number": 19,
+    "cohort_size": 262,
+    "active_buyers": 2,
+    "repurchase_pct": 0.76
+  },
+  {
+    "cohort_month": "2016-10-01",
+    "activity_month": "2018-06-01",
+    "month_number": 20,
+    "cohort_size": 262,
+    "active_buyers": 2,
+    "repurchase_pct": 0.76
+  },
+  {
+    "cohort_month": "2016-10-01",
+    "activity_month": "2018-07-01",
+    "month_number": 21,
+    "cohort_size": 262,
+    "active_buyers": 0,
+    "repurchase_pct": 0.0
+  },
+  {
+    "cohort_month": "2016-12-01",
+    "activity_month": "2016-12-01",
+    "month_number": 0,
+    "cohort_size": 1,
+    "active_buyers": 1,
+    "repurchase_pct": 100.0
+  },
+  {
+    "cohort_month": "2016-12-01",
+    "activity_month": "2017-01-01",
+    "month_number": 1,
+    "cohort_size": 1,
+    "active_buyers": 1,
+    "repurchase_pct": 100.0
+  },
+  {
+    "cohort_month": "2016-12-01",
+    "activity_month": "2017-02-01",
+    "month_number": 2,
+    "cohort_size": 1,
+    "active_buyers": 0,
+    "repurchase_pct": 0.0
+  },
+  {
+    "cohort_month": "2016-12-01",
+    "activity_month": "2017-03-01",
+    "month_number": 3,
+    "cohort_size": 1,
+    "active_buyers": 0,
+    "repurchase_pct": 0.0
+  },
+  {
+    "cohort_month": "2016-12-01",
+    "activity_month": "2017-04-01",
+    "month_number": 4,
+    "cohort_size": 1,
+    "active_buyers": 0,
+    "repurchase_pct": 0.0
+  },
+  {
+    "cohort_month": "2016-12-01",
+    "activity_month": "2017-05-01",
+    "month_number": 5,
+    "cohort_size": 1,
+    "active_buyers": 0,
+    "repurchase_pct": 0.0
+  },
+  {
+    "cohort_month": "2016-12-01",
+    "activity_month": "2017-06-01",
+    "month_number": 6,
+    "cohort_size": 1,
+    "active_buyers": 0,
+    "repurchase_pct": 0.0
+  },
+  {
+    "cohort_month": "2016-12-01",
+    "activity_month": "2017-07-01",
+    "month_number": 7,
+    "cohort_size": 1,
+    "active_buyers": 0,
+    "repurchase_pct": 0.0
+  },
+  {
+    "cohort_month": "2016-12-01",
+    "activity_month": "2017-08-01",
+    "month_number": 8,
+    "cohort_size": 1,
+    "active_buyers": 0,
+    "repurchase_pct": 0.0
+  },
+  {
+    "cohort_month": "2016-12-01",
+    "activity_month": "2017-09-01",
+    "month_number": 9,
+    "cohort_size": 1,
+    "active_buyers": 0,
+    "repurchase_pct": 0.0
+  },
+  {
+    "cohort_month": "2016-12-01",
+    "activity_month": "2017-10-01",
+    "month_number": 10,
+    "cohort_size": 1,
+    "active_buyers": 0,
+    "repurchase_pct": 0.0
+  },
+  {
+    "cohort_month": "2016-12-01",
+    "activity_month": "2017-11-01",
+    "month_number": 11,
+    "cohort_size": 1,
+    "active_buyers": 0,
+    "repurchase_pct": 0.0
+  },
+  {
+    "cohort_month": "2016-12-01",
+    "activity_month": "2017-12-01",
+    "month_number": 12,
+    "cohort_size": 1,
+    "active_buyers": 0,
+    "repurchase_pct": 0.0
+  },
+  {
+    "cohort_month": "2016-12-01",
+    "activity_month": "2018-01-01",
+    "month_number": 13,
+    "cohort_size": 1,
+    "active_buyers": 0,
+    "repurchase_pct": 0.0
+  },
+  {
+    "cohort_month": "2016-12-01",
+    "activity_month": "2018-02-01",
+    "month_number": 14,
+    "cohort_size": 1,
+    "active_buyers": 0,
+    "repurchase_pct": 0.0
+  },
+  {
+    "cohort_month": "2016-12-01",
+    "activity_month": "2018-03-01",
+    "month_number": 15,
+    "cohort_size": 1,
+    "active_buyers": 0,
+    "repurchase_pct": 0.0
+  },
+  {
+    "cohort_month": "2016-12-01",
+    "activity_month": "2018-04-01",
+    "month_number": 16,
+    "cohort_size": 1,
+    "active_buyers": 0,
+    "repurchase_pct": 0.0
+  },
+  {
+    "cohort_month": "2016-12-01",
+    "activity_month": "2018-05-01",
+    "month_number": 17,
+    "cohort_size": 1,
+    "active_buyers": 0,
+    "repurchase_pct": 0.0
+  },
+  {
+    "cohort_month": "2016-12-01",
+    "activity_month": "2018-06-01",
+    "month_number": 18,
+    "cohort_size": 1,
+    "active_buyers": 0,
+    "repurchase_pct": 0.0
+  },
+  {
+    "cohort_month": "2016-12-01",
+    "activity_month": "2018-07-01",
+    "month_number": 19,
+    "cohort_size": 1,
+    "active_buyers": 0,
+    "repurchase_pct": 0.0
+  },
+  {
+    "cohort_month": "2017-01-01",
+    "activity_month": "2017-01-01",
+    "month_number": 0,
+    "cohort_size": 717,
+    "active_buyers": 717,
+    "repurchase_pct": 100.0
+  },
+  {
+    "cohort_month": "2017-01-01",
+    "activity_month": "2017-02-01",
+    "month_number": 1,
+    "cohort_size": 717,
+    "active_buyers": 2,
+    "repurchase_pct": 0.28
+  },
+  {
+    "cohort_month": "2017-01-01",
+    "activity_month": "2017-03-01",
+    "month_number": 2,
+    "cohort_size": 717,
+    "active_buyers": 2,
+    "repurchase_pct": 0.28
+  },
+  {
+    "cohort_month": "2017-01-01",
+    "activity_month": "2017-04-01",
+    "month_number": 3,
+    "cohort_size": 717,
+    "active_buyers": 1,
+    "repurchase_pct": 0.14
+  },
+  {
+    "cohort_month": "2017-01-01",
+    "activity_month": "2017-05-01",
+    "month_number": 4,
+    "cohort_size": 717,
+    "active_buyers": 3,
+    "repurchase_pct": 0.42
+  },
+  {
+    "cohort_month": "2017-01-01",
+    "activity_month": "2017-06-01",
+    "month_number": 5,
+    "cohort_size": 717,
+    "active_buyers": 1,
+    "repurchase_pct": 0.14
+  },
+  {
+    "cohort_month": "2017-01-01",
+    "activity_month": "2017-07-01",
+    "month_number": 6,
+    "cohort_size": 717,
+    "active_buyers": 3,
+    "repurchase_pct": 0.42
+  },
+  {
+    "cohort_month": "2017-01-01",
+    "activity_month": "2017-08-01",
+    "month_number": 7,
+    "cohort_size": 717,
+    "active_buyers": 1,
+    "repurchase_pct": 0.14
+  },
+  {
+    "cohort_month": "2017-01-01",
+    "activity_month": "2017-09-01",
+    "month_number": 8,
+    "cohort_size": 717,
+    "active_buyers": 1,
+    "repurchase_pct": 0.14
+  },
+  {
+    "cohort_month": "2017-01-01",
+    "activity_month": "2017-10-01",
+    "month_number": 9,
+    "cohort_size": 717,
+    "active_buyers": 0,
+    "repurchase_pct": 0.0
+  },
+  {
+    "cohort_month": "2017-01-01",
+    "activity_month": "2017-11-01",
+    "month_number": 10,
+    "cohort_size": 717,
+    "active_buyers": 3,
+    "repurchase_pct": 0.42
+  },
+  {
+    "cohort_month": "2017-01-01",
+    "activity_month": "2017-12-01",
+    "month_number": 11,
+    "cohort_size": 717,
+    "active_buyers": 1,
+    "repurchase_pct": 0.14
+  },
+  {
+    "cohort_month": "2017-01-01",
+    "activity_month": "2018-01-01",
+    "month_number": 12,
+    "cohort_size": 717,
+    "active_buyers": 5,
+    "repurchase_pct": 0.7
+  },
+  {
+    "cohort_month": "2017-01-01",
+    "activity_month": "2018-02-01",
+    "month_number": 13,
+    "cohort_size": 717,
+    "active_buyers": 3,
+    "repurchase_pct": 0.42
+  },
+  {
+    "cohort_month": "2017-01-01",
+    "activity_month": "2018-03-01",
+    "month_number": 14,
+    "cohort_size": 717,
+    "active_buyers": 1,
+    "repurchase_pct": 0.14
+  },
+  {
+    "cohort_month": "2017-01-01",
+    "activity_month": "2018-04-01",
+    "month_number": 15,
+    "cohort_size": 717,
+    "active_buyers": 1,
+    "repurchase_pct": 0.14
+  },
+  {
+    "cohort_month": "2017-01-01",
+    "activity_month": "2018-05-01",
+    "month_number": 16,
+    "cohort_size": 717,
+    "active_buyers": 2,
+    "repurchase_pct": 0.28
+  },
+  {
+    "cohort_month": "2017-01-01",
+    "activity_month": "2018-06-01",
+    "month_number": 17,
+    "cohort_size": 717,
+    "active_buyers": 3,
+    "repurchase_pct": 0.42
+  },
+  {
+    "cohort_month": "2017-01-01",
+    "activity_month": "2018-07-01",
+    "month_number": 18,
+    "cohort_size": 717,
+    "active_buyers": 0,
+    "repurchase_pct": 0.0
+  },
+  {
+    "cohort_month": "2017-02-01",
+    "activity_month": "2017-02-01",
+    "month_number": 0,
+    "cohort_size": 1628,
+    "active_buyers": 1628,
+    "repurchase_pct": 100.0
+  },
+  {
+    "cohort_month": "2017-02-01",
+    "activity_month": "2017-03-01",
+    "month_number": 1,
+    "cohort_size": 1628,
+    "active_buyers": 3,
+    "repurchase_pct": 0.18
+  },
+  {
+    "cohort_month": "2017-02-01",
+    "activity_month": "2017-04-01",
+    "month_number": 2,
+    "cohort_size": 1628,
+    "active_buyers": 5,
+    "repurchase_pct": 0.31
+  },
+  {
+    "cohort_month": "2017-02-01",
+    "activity_month": "2017-05-01",
+    "month_number": 3,
+    "cohort_size": 1628,
+    "active_buyers": 2,
+    "repurchase_pct": 0.12
+  },
+  {
+    "cohort_month": "2017-02-01",
+    "activity_month": "2017-06-01",
+    "month_number": 4,
+    "cohort_size": 1628,
+    "active_buyers": 7,
+    "repurchase_pct": 0.43
+  },
+  {
+    "cohort_month": "2017-02-01",
+    "activity_month": "2017-07-01",
+    "month_number": 5,
+    "cohort_size": 1628,
+    "active_buyers": 2,
+    "repurchase_pct": 0.12
+  },
+  {
+    "cohort_month": "2017-02-01",
+    "activity_month": "2017-08-01",
+    "month_number": 6,
+    "cohort_size": 1628,
+    "active_buyers": 4,
+    "repurchase_pct": 0.25
+  },
+  {
+    "cohort_month": "2017-02-01",
+    "activity_month": "2017-09-01",
+    "month_number": 7,
+    "cohort_size": 1628,
+    "active_buyers": 3,
+    "repurchase_pct": 0.18
+  },
+  {
+    "cohort_month": "2017-02-01",
+    "activity_month": "2017-10-01",
+    "month_number": 8,
+    "cohort_size": 1628,
+    "active_buyers": 2,
+    "repurchase_pct": 0.12
+  },
+  {
+    "cohort_month": "2017-02-01",
+    "activity_month": "2017-11-01",
+    "month_number": 9,
+    "cohort_size": 1628,
+    "active_buyers": 3,
+    "repurchase_pct": 0.18
+  },
+  {
+    "cohort_month": "2017-02-01",
+    "activity_month": "2017-12-01",
+    "month_number": 10,
+    "cohort_size": 1628,
+    "active_buyers": 2,
+    "repurchase_pct": 0.12
+  },
+  {
+    "cohort_month": "2017-02-01",
+    "activity_month": "2018-01-01",
+    "month_number": 11,
+    "cohort_size": 1628,
+    "active_buyers": 5,
+    "repurchase_pct": 0.31
+  },
+  {
+    "cohort_month": "2017-02-01",
+    "activity_month": "2018-02-01",
+    "month_number": 12,
+    "cohort_size": 1628,
+    "active_buyers": 2,
+    "repurchase_pct": 0.12
+  },
+  {
+    "cohort_month": "2017-02-01",
+    "activity_month": "2018-03-01",
+    "month_number": 13,
+    "cohort_size": 1628,
+    "active_buyers": 3,
+    "repurchase_pct": 0.18
+  },
+  {
+    "cohort_month": "2017-02-01",
+    "activity_month": "2018-04-01",
+    "month_number": 14,
+    "cohort_size": 1628,
+    "active_buyers": 2,
+    "repurchase_pct": 0.12
+  },
+  {
+    "cohort_month": "2017-02-01",
+    "activity_month": "2018-05-01",
+    "month_number": 15,
+    "cohort_size": 1628,
+    "active_buyers": 1,
+    "repurchase_pct": 0.06
+  },
+  {
+    "cohort_month": "2017-02-01",
+    "activity_month": "2018-06-01",
+    "month_number": 16,
+    "cohort_size": 1628,
+    "active_buyers": 1,
+    "repurchase_pct": 0.06
+  },
+  {
+    "cohort_month": "2017-02-01",
+    "activity_month": "2018-07-01",
+    "month_number": 17,
+    "cohort_size": 1628,
+    "active_buyers": 3,
+    "repurchase_pct": 0.18
+  },
+  {
+    "cohort_month": "2017-03-01",
+    "activity_month": "2017-03-01",
+    "month_number": 0,
+    "cohort_size": 2503,
+    "active_buyers": 2503,
+    "repurchase_pct": 100.0
+  },
+  {
+    "cohort_month": "2017-03-01",
+    "activity_month": "2017-04-01",
+    "month_number": 1,
+    "cohort_size": 2503,
+    "active_buyers": 11,
+    "repurchase_pct": 0.44
+  },
+  {
+    "cohort_month": "2017-03-01",
+    "activity_month": "2017-05-01",
+    "month_number": 2,
+    "cohort_size": 2503,
+    "active_buyers": 9,
+    "repurchase_pct": 0.36
+  },
+  {
+    "cohort_month": "2017-03-01",
+    "activity_month": "2017-06-01",
+    "month_number": 3,
+    "cohort_size": 2503,
+    "active_buyers": 10,
+    "repurchase_pct": 0.4
+  },
+  {
+    "cohort_month": "2017-03-01",
+    "activity_month": "2017-07-01",
+    "month_number": 4,
+    "cohort_size": 2503,
+    "active_buyers": 9,
+    "repurchase_pct": 0.36
+  },
+  {
+    "cohort_month": "2017-03-01",
+    "activity_month": "2017-08-01",
+    "month_number": 5,
+    "cohort_size": 2503,
+    "active_buyers": 4,
+    "repurchase_pct": 0.16
+  },
+  {
+    "cohort_month": "2017-03-01",
+    "activity_month": "2017-09-01",
+    "month_number": 6,
+    "cohort_size": 2503,
+    "active_buyers": 4,
+    "repurchase_pct": 0.16
+  },
+  {
+    "cohort_month": "2017-03-01",
+    "activity_month": "2017-10-01",
+    "month_number": 7,
+    "cohort_size": 2503,
+    "active_buyers": 8,
+    "repurchase_pct": 0.32
+  },
+  {
+    "cohort_month": "2017-03-01",
+    "activity_month": "2017-11-01",
+    "month_number": 8,
+    "cohort_size": 2503,
+    "active_buyers": 8,
+    "repurchase_pct": 0.32
+  },
+  {
+    "cohort_month": "2017-03-01",
+    "activity_month": "2017-12-01",
+    "month_number": 9,
+    "cohort_size": 2503,
+    "active_buyers": 2,
+    "repurchase_pct": 0.08
+  },
+  {
+    "cohort_month": "2017-03-01",
+    "activity_month": "2018-01-01",
+    "month_number": 10,
+    "cohort_size": 2503,
+    "active_buyers": 9,
+    "repurchase_pct": 0.36
+  },
+  {
+    "cohort_month": "2017-03-01",
+    "activity_month": "2018-02-01",
+    "month_number": 11,
+    "cohort_size": 2503,
+    "active_buyers": 3,
+    "repurchase_pct": 0.12
+  },
+  {
+    "cohort_month": "2017-03-01",
+    "activity_month": "2018-03-01",
+    "month_number": 12,
+    "cohort_size": 2503,
+    "active_buyers": 5,
+    "repurchase_pct": 0.2
+  },
+  {
+    "cohort_month": "2017-03-01",
+    "activity_month": "2018-04-01",
+    "month_number": 13,
+    "cohort_size": 2503,
+    "active_buyers": 3,
+    "repurchase_pct": 0.12
+  },
+  {
+    "cohort_month": "2017-03-01",
+    "activity_month": "2018-05-01",
+    "month_number": 14,
+    "cohort_size": 2503,
+    "active_buyers": 4,
+    "repurchase_pct": 0.16
+  },
+  {
+    "cohort_month": "2017-03-01",
+    "activity_month": "2018-06-01",
+    "month_number": 15,
+    "cohort_size": 2503,
+    "active_buyers": 6,
+    "repurchase_pct": 0.24
+  },
+  {
+    "cohort_month": "2017-03-01",
+    "activity_month": "2018-07-01",
+    "month_number": 16,
+    "cohort_size": 2503,
+    "active_buyers": 2,
+    "repurchase_pct": 0.08
+  },
+  {
+    "cohort_month": "2017-04-01",
+    "activity_month": "2017-04-01",
+    "month_number": 0,
+    "cohort_size": 2256,
+    "active_buyers": 2256,
+    "repurchase_pct": 100.0
+  },
+  {
+    "cohort_month": "2017-04-01",
+    "activity_month": "2017-05-01",
+    "month_number": 1,
+    "cohort_size": 2256,
+    "active_buyers": 14,
+    "repurchase_pct": 0.62
+  },
+  {
+    "cohort_month": "2017-04-01",
+    "activity_month": "2017-06-01",
+    "month_number": 2,
+    "cohort_size": 2256,
+    "active_buyers": 5,
+    "repurchase_pct": 0.22
+  },
+  {
+    "cohort_month": "2017-04-01",
+    "activity_month": "2017-07-01",
+    "month_number": 3,
+    "cohort_size": 2256,
+    "active_buyers": 4,
+    "repurchase_pct": 0.18
+  },
+  {
+    "cohort_month": "2017-04-01",
+    "activity_month": "2017-08-01",
+    "month_number": 4,
+    "cohort_size": 2256,
+    "active_buyers": 6,
+    "repurchase_pct": 0.27
+  },
+  {
+    "cohort_month": "2017-04-01",
+    "activity_month": "2017-09-01",
+    "month_number": 5,
+    "cohort_size": 2256,
+    "active_buyers": 6,
+    "repurchase_pct": 0.27
+  },
+  {
+    "cohort_month": "2017-04-01",
+    "activity_month": "2017-10-01",
+    "month_number": 6,
+    "cohort_size": 2256,
+    "active_buyers": 8,
+    "repurchase_pct": 0.35
+  },
+  {
+    "cohort_month": "2017-04-01",
+    "activity_month": "2017-11-01",
+    "month_number": 7,
+    "cohort_size": 2256,
+    "active_buyers": 7,
+    "repurchase_pct": 0.31
+  },
+  {
+    "cohort_month": "2017-04-01",
+    "activity_month": "2017-12-01",
+    "month_number": 8,
+    "cohort_size": 2256,
+    "active_buyers": 7,
+    "repurchase_pct": 0.31
+  },
+  {
+    "cohort_month": "2017-04-01",
+    "activity_month": "2018-01-01",
+    "month_number": 9,
+    "cohort_size": 2256,
+    "active_buyers": 4,
+    "repurchase_pct": 0.18
+  },
+  {
+    "cohort_month": "2017-04-01",
+    "activity_month": "2018-02-01",
+    "month_number": 10,
+    "cohort_size": 2256,
+    "active_buyers": 6,
+    "repurchase_pct": 0.27
+  },
+  {
+    "cohort_month": "2017-04-01",
+    "activity_month": "2018-03-01",
+    "month_number": 11,
+    "cohort_size": 2256,
+    "active_buyers": 2,
+    "repurchase_pct": 0.09
+  },
+  {
+    "cohort_month": "2017-04-01",
+    "activity_month": "2018-04-01",
+    "month_number": 12,
+    "cohort_size": 2256,
+    "active_buyers": 1,
+    "repurchase_pct": 0.04
+  },
+  {
+    "cohort_month": "2017-04-01",
+    "activity_month": "2018-05-01",
+    "month_number": 13,
+    "cohort_size": 2256,
+    "active_buyers": 1,
+    "repurchase_pct": 0.04
+  },
+  {
+    "cohort_month": "2017-04-01",
+    "activity_month": "2018-06-01",
+    "month_number": 14,
+    "cohort_size": 2256,
+    "active_buyers": 2,
+    "repurchase_pct": 0.09
+  },
+  {
+    "cohort_month": "2017-04-01",
+    "activity_month": "2018-07-01",
+    "month_number": 15,
+    "cohort_size": 2256,
+    "active_buyers": 2,
+    "repurchase_pct": 0.09
+  },
+  {
+    "cohort_month": "2017-05-01",
+    "activity_month": "2017-05-01",
+    "month_number": 0,
+    "cohort_size": 3451,
+    "active_buyers": 3451,
+    "repurchase_pct": 100.0
+  },
+  {
+    "cohort_month": "2017-05-01",
+    "activity_month": "2017-06-01",
+    "month_number": 1,
+    "cohort_size": 3451,
+    "active_buyers": 16,
+    "repurchase_pct": 0.46
+  },
+  {
+    "cohort_month": "2017-05-01",
+    "activity_month": "2017-07-01",
+    "month_number": 2,
+    "cohort_size": 3451,
+    "active_buyers": 16,
+    "repurchase_pct": 0.46
+  },
+  {
+    "cohort_month": "2017-05-01",
+    "activity_month": "2017-08-01",
+    "month_number": 3,
+    "cohort_size": 3451,
+    "active_buyers": 10,
+    "repurchase_pct": 0.29
+  },
+  {
+    "cohort_month": "2017-05-01",
+    "activity_month": "2017-09-01",
+    "month_number": 4,
+    "cohort_size": 3451,
+    "active_buyers": 10,
+    "repurchase_pct": 0.29
+  },
+  {
+    "cohort_month": "2017-05-01",
+    "activity_month": "2017-10-01",
+    "month_number": 5,
+    "cohort_size": 3451,
+    "active_buyers": 11,
+    "repurchase_pct": 0.32
+  },
+  {
+    "cohort_month": "2017-05-01",
+    "activity_month": "2017-11-01",
+    "month_number": 6,
+    "cohort_size": 3451,
+    "active_buyers": 14,
+    "repurchase_pct": 0.41
+  },
+  {
+    "cohort_month": "2017-05-01",
+    "activity_month": "2017-12-01",
+    "month_number": 7,
+    "cohort_size": 3451,
+    "active_buyers": 5,
+    "repurchase_pct": 0.14
+  },
+  {
+    "cohort_month": "2017-05-01",
+    "activity_month": "2018-01-01",
+    "month_number": 8,
+    "cohort_size": 3451,
+    "active_buyers": 9,
+    "repurchase_pct": 0.26
+  },
+  {
+    "cohort_month": "2017-05-01",
+    "activity_month": "2018-02-01",
+    "month_number": 9,
+    "cohort_size": 3451,
+    "active_buyers": 9,
+    "repurchase_pct": 0.26
+  },
+  {
+    "cohort_month": "2017-05-01",
+    "activity_month": "2018-03-01",
+    "month_number": 10,
+    "cohort_size": 3451,
+    "active_buyers": 9,
+    "repurchase_pct": 0.26
+  },
+  {
+    "cohort_month": "2017-05-01",
+    "activity_month": "2018-04-01",
+    "month_number": 11,
+    "cohort_size": 3451,
+    "active_buyers": 12,
+    "repurchase_pct": 0.35
+  },
+  {
+    "cohort_month": "2017-05-01",
+    "activity_month": "2018-05-01",
+    "month_number": 12,
+    "cohort_size": 3451,
+    "active_buyers": 8,
+    "repurchase_pct": 0.23
+  },
+  {
+    "cohort_month": "2017-05-01",
+    "activity_month": "2018-06-01",
+    "month_number": 13,
+    "cohort_size": 3451,
+    "active_buyers": 1,
+    "repurchase_pct": 0.03
+  },
+  {
+    "cohort_month": "2017-05-01",
+    "activity_month": "2018-07-01",
+    "month_number": 14,
+    "cohort_size": 3451,
+    "active_buyers": 6,
+    "repurchase_pct": 0.17
+  },
+  {
+    "cohort_month": "2017-06-01",
+    "activity_month": "2017-06-01",
+    "month_number": 0,
+    "cohort_size": 3037,
+    "active_buyers": 3037,
+    "repurchase_pct": 100.0
+  },
+  {
+    "cohort_month": "2017-06-01",
+    "activity_month": "2017-07-01",
+    "month_number": 1,
+    "cohort_size": 3037,
+    "active_buyers": 15,
+    "repurchase_pct": 0.49
+  },
+  {
+    "cohort_month": "2017-06-01",
+    "activity_month": "2017-08-01",
+    "month_number": 2,
+    "cohort_size": 3037,
+    "active_buyers": 12,
+    "repurchase_pct": 0.4
+  },
+  {
+    "cohort_month": "2017-06-01",
+    "activity_month": "2017-09-01",
+    "month_number": 3,
+    "cohort_size": 3037,
+    "active_buyers": 13,
+    "repurchase_pct": 0.43
+  },
+  {
+    "cohort_month": "2017-06-01",
+    "activity_month": "2017-10-01",
+    "month_number": 4,
+    "cohort_size": 3037,
+    "active_buyers": 9,
+    "repurchase_pct": 0.3
+  },
+  {
+    "cohort_month": "2017-06-01",
+    "activity_month": "2017-11-01",
+    "month_number": 5,
+    "cohort_size": 3037,
+    "active_buyers": 12,
+    "repurchase_pct": 0.4
+  },
+  {
+    "cohort_month": "2017-06-01",
+    "activity_month": "2017-12-01",
+    "month_number": 6,
+    "cohort_size": 3037,
+    "active_buyers": 11,
+    "repurchase_pct": 0.36
+  },
+  {
+    "cohort_month": "2017-06-01",
+    "activity_month": "2018-01-01",
+    "month_number": 7,
+    "cohort_size": 3037,
+    "active_buyers": 7,
+    "repurchase_pct": 0.23
+  },
+  {
+    "cohort_month": "2017-06-01",
+    "activity_month": "2018-02-01",
+    "month_number": 8,
+    "cohort_size": 3037,
+    "active_buyers": 4,
+    "repurchase_pct": 0.13
+  },
+  {
+    "cohort_month": "2017-06-01",
+    "activity_month": "2018-03-01",
+    "month_number": 9,
+    "cohort_size": 3037,
+    "active_buyers": 6,
+    "repurchase_pct": 0.2
+  },
+  {
+    "cohort_month": "2017-06-01",
+    "activity_month": "2018-04-01",
+    "month_number": 10,
+    "cohort_size": 3037,
+    "active_buyers": 9,
+    "repurchase_pct": 0.3
+  },
+  {
+    "cohort_month": "2017-06-01",
+    "activity_month": "2018-05-01",
+    "month_number": 11,
+    "cohort_size": 3037,
+    "active_buyers": 11,
+    "repurchase_pct": 0.36
+  },
+  {
+    "cohort_month": "2017-06-01",
+    "activity_month": "2018-06-01",
+    "month_number": 12,
+    "cohort_size": 3037,
+    "active_buyers": 5,
+    "repurchase_pct": 0.16
+  },
+  {
+    "cohort_month": "2017-06-01",
+    "activity_month": "2018-07-01",
+    "month_number": 13,
+    "cohort_size": 3037,
+    "active_buyers": 5,
+    "repurchase_pct": 0.16
+  },
+  {
+    "cohort_month": "2017-07-01",
+    "activity_month": "2017-07-01",
+    "month_number": 0,
+    "cohort_size": 3752,
+    "active_buyers": 3752,
+    "repurchase_pct": 100.0
+  },
+  {
+    "cohort_month": "2017-07-01",
+    "activity_month": "2017-08-01",
+    "month_number": 1,
+    "cohort_size": 3752,
+    "active_buyers": 20,
+    "repurchase_pct": 0.53
+  },
+  {
+    "cohort_month": "2017-07-01",
+    "activity_month": "2017-09-01",
+    "month_number": 2,
+    "cohort_size": 3752,
+    "active_buyers": 13,
+    "repurchase_pct": 0.35
+  },
+  {
+    "cohort_month": "2017-07-01",
+    "activity_month": "2017-10-01",
+    "month_number": 3,
+    "cohort_size": 3752,
+    "active_buyers": 9,
+    "repurchase_pct": 0.24
+  },
+  {
+    "cohort_month": "2017-07-01",
+    "activity_month": "2017-11-01",
+    "month_number": 4,
+    "cohort_size": 3752,
+    "active_buyers": 11,
+    "repurchase_pct": 0.29
+  },
+  {
+    "cohort_month": "2017-07-01",
+    "activity_month": "2017-12-01",
+    "month_number": 5,
+    "cohort_size": 3752,
+    "active_buyers": 8,
+    "repurchase_pct": 0.21
+  },
+  {
+    "cohort_month": "2017-07-01",
+    "activity_month": "2018-01-01",
+    "month_number": 6,
+    "cohort_size": 3752,
+    "active_buyers": 12,
+    "repurchase_pct": 0.32
+  },
+  {
+    "cohort_month": "2017-07-01",
+    "activity_month": "2018-02-01",
+    "month_number": 7,
+    "cohort_size": 3752,
+    "active_buyers": 4,
+    "repurchase_pct": 0.11
+  },
+  {
+    "cohort_month": "2017-07-01",
+    "activity_month": "2018-03-01",
+    "month_number": 8,
+    "cohort_size": 3752,
+    "active_buyers": 7,
+    "repurchase_pct": 0.19
+  },
+  {
+    "cohort_month": "2017-07-01",
+    "activity_month": "2018-04-01",
+    "month_number": 9,
+    "cohort_size": 3752,
+    "active_buyers": 10,
+    "repurchase_pct": 0.27
+  },
+  {
+    "cohort_month": "2017-07-01",
+    "activity_month": "2018-05-01",
+    "month_number": 10,
+    "cohort_size": 3752,
+    "active_buyers": 8,
+    "repurchase_pct": 0.21
+  },
+  {
+    "cohort_month": "2017-07-01",
+    "activity_month": "2018-06-01",
+    "month_number": 11,
+    "cohort_size": 3752,
+    "active_buyers": 11,
+    "repurchase_pct": 0.29
+  },
+  {
+    "cohort_month": "2017-07-01",
+    "activity_month": "2018-07-01",
+    "month_number": 12,
+    "cohort_size": 3752,
+    "active_buyers": 5,
+    "repurchase_pct": 0.13
+  },
+  {
+    "cohort_month": "2017-08-01",
+    "activity_month": "2017-08-01",
+    "month_number": 0,
+    "cohort_size": 4057,
+    "active_buyers": 4057,
+    "repurchase_pct": 100.0
+  },
+  {
+    "cohort_month": "2017-08-01",
+    "activity_month": "2017-09-01",
+    "month_number": 1,
+    "cohort_size": 4057,
+    "active_buyers": 28,
+    "repurchase_pct": 0.69
+  },
+  {
+    "cohort_month": "2017-08-01",
+    "activity_month": "2017-10-01",
+    "month_number": 2,
+    "cohort_size": 4057,
+    "active_buyers": 14,
+    "repurchase_pct": 0.35
+  },
+  {
+    "cohort_month": "2017-08-01",
+    "activity_month": "2017-11-01",
+    "month_number": 3,
+    "cohort_size": 4057,
+    "active_buyers": 11,
+    "repurchase_pct": 0.27
+  },
+  {
+    "cohort_month": "2017-08-01",
+    "activity_month": "2017-12-01",
+    "month_number": 4,
+    "cohort_size": 4057,
+    "active_buyers": 14,
+    "repurchase_pct": 0.35
+  },
+  {
+    "cohort_month": "2017-08-01",
+    "activity_month": "2018-01-01",
+    "month_number": 5,
+    "cohort_size": 4057,
+    "active_buyers": 21,
+    "repurchase_pct": 0.52
+  },
+  {
+    "cohort_month": "2017-08-01",
+    "activity_month": "2018-02-01",
+    "month_number": 6,
+    "cohort_size": 4057,
+    "active_buyers": 12,
+    "repurchase_pct": 0.3
+  },
+  {
+    "cohort_month": "2017-08-01",
+    "activity_month": "2018-03-01",
+    "month_number": 7,
+    "cohort_size": 4057,
+    "active_buyers": 11,
+    "repurchase_pct": 0.27
+  },
+  {
+    "cohort_month": "2017-08-01",
+    "activity_month": "2018-04-01",
+    "month_number": 8,
+    "cohort_size": 4057,
+    "active_buyers": 6,
+    "repurchase_pct": 0.15
+  },
+  {
+    "cohort_month": "2017-08-01",
+    "activity_month": "2018-05-01",
+    "month_number": 9,
+    "cohort_size": 4057,
+    "active_buyers": 6,
+    "repurchase_pct": 0.15
+  },
+  {
+    "cohort_month": "2017-08-01",
+    "activity_month": "2018-06-01",
+    "month_number": 10,
+    "cohort_size": 4057,
+    "active_buyers": 10,
+    "repurchase_pct": 0.25
+  },
+  {
+    "cohort_month": "2017-08-01",
+    "activity_month": "2018-07-01",
+    "month_number": 11,
+    "cohort_size": 4057,
+    "active_buyers": 8,
+    "repurchase_pct": 0.2
+  },
+  {
+    "cohort_month": "2017-09-01",
+    "activity_month": "2017-09-01",
+    "month_number": 0,
+    "cohort_size": 4004,
+    "active_buyers": 4004,
+    "repurchase_pct": 100.0
+  },
+  {
+    "cohort_month": "2017-09-01",
+    "activity_month": "2017-10-01",
+    "month_number": 1,
+    "cohort_size": 4004,
+    "active_buyers": 28,
+    "repurchase_pct": 0.7
+  },
+  {
+    "cohort_month": "2017-09-01",
+    "activity_month": "2017-11-01",
+    "month_number": 2,
+    "cohort_size": 4004,
+    "active_buyers": 22,
+    "repurchase_pct": 0.55
+  },
+  {
+    "cohort_month": "2017-09-01",
+    "activity_month": "2017-12-01",
+    "month_number": 3,
+    "cohort_size": 4004,
+    "active_buyers": 11,
+    "repurchase_pct": 0.27
+  },
+  {
+    "cohort_month": "2017-09-01",
+    "activity_month": "2018-01-01",
+    "month_number": 4,
+    "cohort_size": 4004,
+    "active_buyers": 18,
+    "repurchase_pct": 0.45
+  },
+  {
+    "cohort_month": "2017-09-01",
+    "activity_month": "2018-02-01",
+    "month_number": 5,
+    "cohort_size": 4004,
+    "active_buyers": 9,
+    "repurchase_pct": 0.22
+  },
+  {
+    "cohort_month": "2017-09-01",
+    "activity_month": "2018-03-01",
+    "month_number": 6,
+    "cohort_size": 4004,
+    "active_buyers": 9,
+    "repurchase_pct": 0.22
+  },
+  {
+    "cohort_month": "2017-09-01",
+    "activity_month": "2018-04-01",
+    "month_number": 7,
+    "cohort_size": 4004,
+    "active_buyers": 10,
+    "repurchase_pct": 0.25
+  },
+  {
+    "cohort_month": "2017-09-01",
+    "activity_month": "2018-05-01",
+    "month_number": 8,
+    "cohort_size": 4004,
+    "active_buyers": 11,
+    "repurchase_pct": 0.27
+  },
+  {
+    "cohort_month": "2017-09-01",
+    "activity_month": "2018-06-01",
+    "month_number": 9,
+    "cohort_size": 4004,
+    "active_buyers": 7,
+    "repurchase_pct": 0.17
+  },
+  {
+    "cohort_month": "2017-09-01",
+    "activity_month": "2018-07-01",
+    "month_number": 10,
+    "cohort_size": 4004,
+    "active_buyers": 10,
+    "repurchase_pct": 0.25
+  },
+  {
+    "cohort_month": "2017-10-01",
+    "activity_month": "2017-10-01",
+    "month_number": 0,
+    "cohort_size": 4328,
+    "active_buyers": 4328,
+    "repurchase_pct": 100.0
+  },
+  {
+    "cohort_month": "2017-10-01",
+    "activity_month": "2017-11-01",
+    "month_number": 1,
+    "cohort_size": 4328,
+    "active_buyers": 31,
+    "repurchase_pct": 0.72
+  },
+  {
+    "cohort_month": "2017-10-01",
+    "activity_month": "2017-12-01",
+    "month_number": 2,
+    "cohort_size": 4328,
+    "active_buyers": 11,
+    "repurchase_pct": 0.25
+  },
+  {
+    "cohort_month": "2017-10-01",
+    "activity_month": "2018-01-01",
+    "month_number": 3,
+    "cohort_size": 4328,
+    "active_buyers": 4,
+    "repurchase_pct": 0.09
+  },
+  {
+    "cohort_month": "2017-10-01",
+    "activity_month": "2018-02-01",
+    "month_number": 4,
+    "cohort_size": 4328,
+    "active_buyers": 10,
+    "repurchase_pct": 0.23
+  },
+  {
+    "cohort_month": "2017-10-01",
+    "activity_month": "2018-03-01",
+    "month_number": 5,
+    "cohort_size": 4328,
+    "active_buyers": 9,
+    "repurchase_pct": 0.21
+  },
+  {
+    "cohort_month": "2017-10-01",
+    "activity_month": "2018-04-01",
+    "month_number": 6,
+    "cohort_size": 4328,
+    "active_buyers": 9,
+    "repurchase_pct": 0.21
+  },
+  {
+    "cohort_month": "2017-10-01",
+    "activity_month": "2018-05-01",
+    "month_number": 7,
+    "cohort_size": 4328,
+    "active_buyers": 16,
+    "repurchase_pct": 0.37
+  },
+  {
+    "cohort_month": "2017-10-01",
+    "activity_month": "2018-06-01",
+    "month_number": 8,
+    "cohort_size": 4328,
+    "active_buyers": 12,
+    "repurchase_pct": 0.28
+  },
+  {
+    "cohort_month": "2017-10-01",
+    "activity_month": "2018-07-01",
+    "month_number": 9,
+    "cohort_size": 4328,
+    "active_buyers": 8,
+    "repurchase_pct": 0.18
+  },
+  {
+    "cohort_month": "2017-11-01",
+    "activity_month": "2017-11-01",
+    "month_number": 0,
+    "cohort_size": 7060,
+    "active_buyers": 7060,
+    "repurchase_pct": 100.0
+  },
+  {
+    "cohort_month": "2017-11-01",
+    "activity_month": "2017-12-01",
+    "month_number": 1,
+    "cohort_size": 7060,
+    "active_buyers": 40,
+    "repurchase_pct": 0.57
+  },
+  {
+    "cohort_month": "2017-11-01",
+    "activity_month": "2018-01-01",
+    "month_number": 2,
+    "cohort_size": 7060,
+    "active_buyers": 26,
+    "repurchase_pct": 0.37
+  },
+  {
+    "cohort_month": "2017-11-01",
+    "activity_month": "2018-02-01",
+    "month_number": 3,
+    "cohort_size": 7060,
+    "active_buyers": 12,
+    "repurchase_pct": 0.17
+  },
+  {
+    "cohort_month": "2017-11-01",
+    "activity_month": "2018-03-01",
+    "month_number": 4,
+    "cohort_size": 7060,
+    "active_buyers": 12,
+    "repurchase_pct": 0.17
+  },
+  {
+    "cohort_month": "2017-11-01",
+    "activity_month": "2018-04-01",
+    "month_number": 5,
+    "cohort_size": 7060,
+    "active_buyers": 13,
+    "repurchase_pct": 0.18
+  },
+  {
+    "cohort_month": "2017-11-01",
+    "activity_month": "2018-05-01",
+    "month_number": 6,
+    "cohort_size": 7060,
+    "active_buyers": 8,
+    "repurchase_pct": 0.11
+  },
+  {
+    "cohort_month": "2017-11-01",
+    "activity_month": "2018-06-01",
+    "month_number": 7,
+    "cohort_size": 7060,
+    "active_buyers": 13,
+    "repurchase_pct": 0.18
+  },
+  {
+    "cohort_month": "2017-11-01",
+    "activity_month": "2018-07-01",
+    "month_number": 8,
+    "cohort_size": 7060,
+    "active_buyers": 9,
+    "repurchase_pct": 0.13
+  },
+  {
+    "cohort_month": "2017-12-01",
+    "activity_month": "2017-12-01",
+    "month_number": 0,
+    "cohort_size": 5338,
+    "active_buyers": 5338,
+    "repurchase_pct": 100.0
+  },
+  {
+    "cohort_month": "2017-12-01",
+    "activity_month": "2018-01-01",
+    "month_number": 1,
+    "cohort_size": 5338,
+    "active_buyers": 11,
+    "repurchase_pct": 0.21
+  },
+  {
+    "cohort_month": "2017-12-01",
+    "activity_month": "2018-02-01",
+    "month_number": 2,
+    "cohort_size": 5338,
+    "active_buyers": 15,
+    "repurchase_pct": 0.28
+  },
+  {
+    "cohort_month": "2017-12-01",
+    "activity_month": "2018-03-01",
+    "month_number": 3,
+    "cohort_size": 5338,
+    "active_buyers": 18,
+    "repurchase_pct": 0.34
+  },
+  {
+    "cohort_month": "2017-12-01",
+    "activity_month": "2018-04-01",
+    "month_number": 4,
+    "cohort_size": 5338,
+    "active_buyers": 14,
+    "repurchase_pct": 0.26
+  },
+  {
+    "cohort_month": "2017-12-01",
+    "activity_month": "2018-05-01",
+    "month_number": 5,
+    "cohort_size": 5338,
+    "active_buyers": 11,
+    "repurchase_pct": 0.21
+  },
+  {
+    "cohort_month": "2017-12-01",
+    "activity_month": "2018-06-01",
+    "month_number": 6,
+    "cohort_size": 5338,
+    "active_buyers": 9,
+    "repurchase_pct": 0.17
+  },
+  {
+    "cohort_month": "2017-12-01",
+    "activity_month": "2018-07-01",
+    "month_number": 7,
+    "cohort_size": 5338,
+    "active_buyers": 1,
+    "repurchase_pct": 0.02
+  },
+  {
+    "cohort_month": "2018-01-01",
+    "activity_month": "2018-01-01",
+    "month_number": 0,
+    "cohort_size": 6842,
+    "active_buyers": 6842,
+    "repurchase_pct": 100.0
+  },
+  {
+    "cohort_month": "2018-01-01",
+    "activity_month": "2018-02-01",
+    "month_number": 1,
+    "cohort_size": 6842,
+    "active_buyers": 23,
+    "repurchase_pct": 0.34
+  },
+  {
+    "cohort_month": "2018-01-01",
+    "activity_month": "2018-03-01",
+    "month_number": 2,
+    "cohort_size": 6842,
+    "active_buyers": 25,
+    "repurchase_pct": 0.37
+  },
+  {
+    "cohort_month": "2018-01-01",
+    "activity_month": "2018-04-01",
+    "month_number": 3,
+    "cohort_size": 6842,
+    "active_buyers": 20,
+    "repurchase_pct": 0.29
+  },
+  {
+    "cohort_month": "2018-01-01",
+    "activity_month": "2018-05-01",
+    "month_number": 4,
+    "cohort_size": 6842,
+    "active_buyers": 20,
+    "repurchase_pct": 0.29
+  },
+  {
+    "cohort_month": "2018-01-01",
+    "activity_month": "2018-06-01",
+    "month_number": 5,
+    "cohort_size": 6842,
+    "active_buyers": 11,
+    "repurchase_pct": 0.16
+  },
+  {
+    "cohort_month": "2018-01-01",
+    "activity_month": "2018-07-01",
+    "month_number": 6,
+    "cohort_size": 6842,
+    "active_buyers": 12,
+    "repurchase_pct": 0.18
+  },
+  {
+    "cohort_month": "2018-02-01",
+    "activity_month": "2018-02-01",
+    "month_number": 0,
+    "cohort_size": 6288,
+    "active_buyers": 6288,
+    "repurchase_pct": 100.0
+  },
+  {
+    "cohort_month": "2018-02-01",
+    "activity_month": "2018-03-01",
+    "month_number": 1,
+    "cohort_size": 6288,
+    "active_buyers": 22,
+    "repurchase_pct": 0.35
+  },
+  {
+    "cohort_month": "2018-02-01",
+    "activity_month": "2018-04-01",
+    "month_number": 2,
+    "cohort_size": 6288,
+    "active_buyers": 25,
+    "repurchase_pct": 0.4
+  },
+  {
+    "cohort_month": "2018-02-01",
+    "activity_month": "2018-05-01",
+    "month_number": 3,
+    "cohort_size": 6288,
+    "active_buyers": 19,
+    "repurchase_pct": 0.3
+  },
+  {
+    "cohort_month": "2018-02-01",
+    "activity_month": "2018-06-01",
+    "month_number": 4,
+    "cohort_size": 6288,
+    "active_buyers": 16,
+    "repurchase_pct": 0.25
+  },
+  {
+    "cohort_month": "2018-02-01",
+    "activity_month": "2018-07-01",
+    "month_number": 5,
+    "cohort_size": 6288,
+    "active_buyers": 14,
+    "repurchase_pct": 0.22
+  },
+  {
+    "cohort_month": "2018-03-01",
+    "activity_month": "2018-03-01",
+    "month_number": 0,
+    "cohort_size": 6774,
+    "active_buyers": 6774,
+    "repurchase_pct": 100.0
+  },
+  {
+    "cohort_month": "2018-03-01",
+    "activity_month": "2018-04-01",
+    "month_number": 1,
+    "cohort_size": 6774,
+    "active_buyers": 27,
+    "repurchase_pct": 0.4
+  },
+  {
+    "cohort_month": "2018-03-01",
+    "activity_month": "2018-05-01",
+    "month_number": 2,
+    "cohort_size": 6774,
+    "active_buyers": 20,
+    "repurchase_pct": 0.3
+  },
+  {
+    "cohort_month": "2018-03-01",
+    "activity_month": "2018-06-01",
+    "month_number": 3,
+    "cohort_size": 6774,
+    "active_buyers": 20,
+    "repurchase_pct": 0.3
+  },
+  {
+    "cohort_month": "2018-03-01",
+    "activity_month": "2018-07-01",
+    "month_number": 4,
+    "cohort_size": 6774,
+    "active_buyers": 8,
+    "repurchase_pct": 0.12
+  },
+  {
+    "cohort_month": "2018-04-01",
+    "activity_month": "2018-04-01",
+    "month_number": 0,
+    "cohort_size": 6582,
+    "active_buyers": 6582,
+    "repurchase_pct": 100.0
+  },
+  {
+    "cohort_month": "2018-04-01",
+    "activity_month": "2018-05-01",
+    "month_number": 1,
+    "cohort_size": 6582,
+    "active_buyers": 39,
+    "repurchase_pct": 0.59
+  },
+  {
+    "cohort_month": "2018-04-01",
+    "activity_month": "2018-06-01",
+    "month_number": 2,
+    "cohort_size": 6582,
+    "active_buyers": 20,
+    "repurchase_pct": 0.3
+  },
+  {
+    "cohort_month": "2018-04-01",
+    "activity_month": "2018-07-01",
+    "month_number": 3,
+    "cohort_size": 6582,
+    "active_buyers": 16,
+    "repurchase_pct": 0.24
+  },
+  {
+    "cohort_month": "2018-05-01",
+    "activity_month": "2018-05-01",
+    "month_number": 0,
+    "cohort_size": 6506,
+    "active_buyers": 6506,
+    "repurchase_pct": 100.0
+  },
+  {
+    "cohort_month": "2018-05-01",
+    "activity_month": "2018-06-01",
+    "month_number": 1,
+    "cohort_size": 6506,
+    "active_buyers": 34,
+    "repurchase_pct": 0.52
+  },
+  {
+    "cohort_month": "2018-05-01",
+    "activity_month": "2018-07-01",
+    "month_number": 2,
+    "cohort_size": 6506,
+    "active_buyers": 17,
+    "repurchase_pct": 0.26
+  },
+  {
+    "cohort_month": "2018-06-01",
+    "activity_month": "2018-06-01",
+    "month_number": 0,
+    "cohort_size": 5878,
+    "active_buyers": 5878,
+    "repurchase_pct": 100.0
+  },
+  {
+    "cohort_month": "2018-06-01",
+    "activity_month": "2018-07-01",
+    "month_number": 1,
+    "cohort_size": 5878,
+    "active_buyers": 25,
+    "repurchase_pct": 0.43
+  },
+  {
+    "cohort_month": "2018-07-01",
+    "activity_month": "2018-07-01",
+    "month_number": 0,
+    "cohort_size": 5949,
+    "active_buyers": 5949,
+    "repurchase_pct": 100.0
+  }
+]

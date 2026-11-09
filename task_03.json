@@ -1,0 +1,34 @@
+[
+  {
+    "order_status": "delivered",
+    "orders_count": 96478
+  },
+  {
+    "order_status": "shipped",
+    "orders_count": 1107
+  },
+  {
+    "order_status": "canceled",
+    "orders_count": 625
+  },
+  {
+    "order_status": "unavailable",
+    "orders_count": 609
+  },
+  {
+    "order_status": "invoiced",
+    "orders_count": 314
+  },
+  {
+    "order_status": "processing",
+    "orders_count": 301
+  },
+  {
+    "order_status": "created",
+    "orders_count": 5
+  },
+  {
+    "order_status": "approved",
+    "orders_count": 2
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "category_original": "beleza_saude",
+    "category_name": "health_beauty",
+    "goods_value": 1233131.72,
+    "delivered_orders": 8647
+  },
+  {
+    "category_original": "relogios_presentes",
+    "category_name": "watches_gifts",
+    "goods_value": 1166176.98,
+    "delivered_orders": 5495
+  },
+  {
+    "category_original": "cama_mesa_banho",
+    "category_name": "bed_bath_table",
+    "goods_value": 1023434.76,
+    "delivered_orders": 9272
+  },
+  {
+    "category_original": "esporte_lazer",
+    "category_name": "sports_leisure",
+    "goods_value": 954852.55,
+    "delivered_orders": 7530
+  },
+  {
+    "category_original": "informatica_acessorios",
+    "category_name": "computers_accessories",
+    "goods_value": 888724.61,
+    "delivered_orders": 6530
+  },
+  {
+    "category_original": "moveis_decoracao",
+    "category_name": "furniture_decor",
+    "goods_value": 711927.69,
+    "delivered_orders": 6307
+  },
+  {
+    "category_original": "utilidades_domesticas",
+    "category_name": "housewares",
+    "goods_value": 615628.69,
+    "delivered_orders": 5743
+  },
+  {
+    "category_original": "cool_stuff",
+    "category_name": "cool_stuff",
+    "goods_value": 610204.1,
+    "delivered_orders": 3559
+  },
+  {
+    "category_original": "automotivo",
+    "category_name": "auto",
+    "goods_value": 578966.65,
+    "delivered_orders": 3810
+  },
+  {
+    "category_original": "brinquedos",
+    "category_name": "toys",
+    "goods_value": 471286.48,
+    "delivered_orders": 3804
+  }
+]

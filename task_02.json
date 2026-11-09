@@ -1,0 +1,26 @@
+[
+  {
+    "order_status": "approved"
+  },
+  {
+    "order_status": "canceled"
+  },
+  {
+    "order_status": "created"
+  },
+  {
+    "order_status": "delivered"
+  },
+  {
+    "order_status": "invoiced"
+  },
+  {
+    "order_status": "processing"
+  },
+  {
+    "order_status": "shipped"
+  },
+  {
+    "order_status": "unavailable"
+  }
+]

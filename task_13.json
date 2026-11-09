@@ -1,0 +1,110 @@
+[
+  {
+    "customer_state": "SP",
+    "buyers": 39156
+  },
+  {
+    "customer_state": "RJ",
+    "buyers": 11917
+  },
+  {
+    "customer_state": "MG",
+    "buyers": 11001
+  },
+  {
+    "customer_state": "RS",
+    "buyers": 5168
+  },
+  {
+    "customer_state": "PR",
+    "buyers": 4769
+  },
+  {
+    "customer_state": "SC",
+    "buyers": 3449
+  },
+  {
+    "customer_state": "BA",
+    "buyers": 3158
+  },
+  {
+    "customer_state": "DF",
+    "buyers": 2019
+  },
+  {
+    "customer_state": "ES",
+    "buyers": 1928
+  },
+  {
+    "customer_state": "GO",
+    "buyers": 1895
+  },
+  {
+    "customer_state": "PE",
+    "buyers": 1551
+  },
+  {
+    "customer_state": "CE",
+    "buyers": 1258
+  },
+  {
+    "customer_state": "PA",
+    "buyers": 922
+  },
+  {
+    "customer_state": "MT",
+    "buyers": 856
+  },
+  {
+    "customer_state": "MA",
+    "buyers": 700
+  },
+  {
+    "customer_state": "MS",
+    "buyers": 681
+  },
+  {
+    "customer_state": "PB",
+    "buyers": 504
+  },
+  {
+    "customer_state": "PI",
+    "buyers": 464
+  },
+  {
+    "customer_state": "RN",
+    "buyers": 464
+  },
+  {
+    "customer_state": "AL",
+    "buyers": 387
+  },
+  {
+    "customer_state": "SE",
+    "buyers": 329
+  },
+  {
+    "customer_state": "TO",
+    "buyers": 267
+  },
+  {
+    "customer_state": "RO",
+    "buyers": 231
+  },
+  {
+    "customer_state": "AM",
+    "buyers": 140
+  },
+  {
+    "customer_state": "AC",
+    "buyers": 76
+  },
+  {
+    "customer_state": "AP",
+    "buyers": 66
+  },
+  {
+    "customer_state": "RR",
+    "buyers": 40
+  }
+]
